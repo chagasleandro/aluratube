@@ -1,0 +1,133 @@
+{
+    "name": "Leandro Chagas",
+    "job": "Desenvolvedor Web/React Jr.",
+    "github": "chagasleandro",
+    "playlist": {
+        "jogos": [
+            {
+                "title": "Resident Evil Revelations 2",
+                "url": "https://www.youtube.com/watch?v=AWyNMc0GVCA",
+                "thumb": "https://img.youtube.com/vi/AWyNMc0GVCA/hqdefault.jpg"
+            },
+            {
+                "title": "God of War RagnaRock",
+                "url": "https://www.youtube.com/watch?v=QfBnmyG_KpI",
+                "thumb": "https://img.youtube.com/vi/QfBnmyG_KpI/hqdefault.jpg"
+            },
+            {
+                "title": "Tomb Raider",
+                "url": "https://www.youtube.com/watch?v=0LGoBC11jrM",
+                "thumb": "https://img.youtube.com/vi/0LGoBC11jrM/hqdefault.jpg"
+            },
+            {
+                "title": "Tomb Raider parte 2",
+                "url": "https://www.youtube.com/watch?v=k_3La0Ok018",
+                "thumb": "https://img.youtube.com/vi/k_3La0Ok018/hqdefault.jpg"
+            },
+            {
+                "title": "Tomb Raider parte 3",
+                "url": "https://www.youtube.com/watch?v=rcGN7B5q49U",
+                "thumb": "https://img.youtube.com/vi/rcGN7B5q49U/hqdefault.jpg"
+            },
+            {
+                "title": "Tomb Raider parte 4",
+                "url": "https://www.youtube.com/watch?v=4e87_poDCjc",
+                "thumb": "https://img.youtube.com/vi/4e87_poDCjc/hqdefault.jpg"
+            },
+            {
+                "title": "Tomb Raider parte 5",
+                "url": "https://www.youtube.com/watch?v=tacXXZ8j4Y4",
+                "thumb": "https://img.youtube.com/vi/tacXXZ8j4Y4/hqdefault.jpg"
+            },
+            {
+                "title": "Batman Arkham Knight - Parte 1",
+                "url": "https://www.youtube.com/watch?v=h4swMdvcdLs",
+                "thumb": "https://img.youtube.com/vi/h4swMdvcdLs/hqdefault.jpg"
+            },
+            {
+                "title": "Batman Arkham Knight - Parte 2",
+                "url": "https://www.youtube.com/watch?v=1WLJPf3tcUg",
+                "thumb": "https://img.youtube.com/vi/1WLJPf3tcUg/hqdefault.jpg"
+            },
+            {
+                "title": "Batman Arkham Knight - Parte 3",
+                "url": "https://www.youtube.com/watch?v=5UYUHya8oZs",
+                "thumb": "https://img.youtube.com/vi/5UYUHya8oZs/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Como ter um excelente LinkedIn para programador - AULA #29",
+                "url": "https://www.youtube.com/watch?v=U9nk6ClK1oI&t=492s",
+                "thumb": "https://img.youtube.com/vi/U9nk6ClK1oI/hqdefault.jpg"
+            },
+            {
+                "title": "Do zero a mais de 10K em 2 anos [LUCAS AZEVEDO] DevInCast #28",
+                "url": "https://www.youtube.com/watch?v=zbhdKvDXfl0",
+                "thumb": "https://img.youtube.com/vi/zbhdKvDXfl0/hqdefault.jpg"
+            },
+            {
+                "title": "O que faz uma desenvolvedora front-end?",
+                "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+                "thumb": "https://img.youtube.com/vi/ZY3-MFxVdEw/hqdefault.jpg"
+            },
+            {
+                "title": "Programador BACKEND ou FRONTEND? qual carreira escolher?",
+                "url": "https://www.youtube.com/watch?v=mpQP_EBBiw0",
+                "thumb": "https://img.youtube.com/vi/mpQP_EBBiw0/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            },
+            {
+                "title": "Como Foi Programado um App Que Faz Mágica",
+                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o Java? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            }
+        ]
+    }
+}
